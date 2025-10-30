@@ -1,1 +1,2 @@
+Projeto Landing Page - Retiro das Águas 2ª Fase
 Projeto da landing page 'Retiro das Águas 2ª Fase', desenvolvido para apresentar um loteamento de alto padrão em Lagoa Santa-MG. O site destaca a infraestrutura completa, áreas de lazer e segurança 24h, com o objetivo principal de gerar leads qualificados através de formulários de contato e agendamento de visitas.
